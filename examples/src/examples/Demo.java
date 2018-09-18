@@ -7,7 +7,7 @@ package examples;
 		
 		System.out.println("first java progrramm");
 		Demo2 d1 = new Demo2();
-		
+		//sample
 		d1.m1();
 	}
 
